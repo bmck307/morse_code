@@ -2,4 +2,4 @@ I saw a guide of morse code on the internet so I quickly made it just in case I 
 
 This is the guide:
 
-![guide](morse_code.png)
+![image](morse_code.png)
